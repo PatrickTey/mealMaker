@@ -65,4 +65,5 @@ menu.addDishToCourse('desserts', ' cream', 4.1);
 
 const meal = menu.generateRandomMeal();
 console.log(meal);
+//console.log(meal);
 
